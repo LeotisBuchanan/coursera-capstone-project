@@ -1,339 +1,495 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created by diasvg.py -->
-<svg width="88.100cm" height="72.550cm" viewBox="-298.050 -392.500 -209.950 -319.950"
- xmlns="http://www.w3.org/2000/svg"
- xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="-298.000" y="-392.450" width="88.000" height="72.450" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-298.000" y="-392.450" width="88.000" height="72.450" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="-252.000" y="-371.493" width="10.000" height="37.000" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-252.000" y="-371.493" width="10.000" height="37.000" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="-250.000" y="-355.393" width="4.180" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-250.000" y="-355.393" width="4.180" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-247.910" y="-353.848"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-login</text>
-<rect x="-278.650" y="-360.493" width="5.225" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-278.650" y="-360.493" width="5.225" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.038" y="-359.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Login</text>
-<text x="-276.038" y="-358.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Activity</text>
-<rect x="-278.650" y="-342.493" width="5.225" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-278.650" y="-342.493" width="5.225" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.038" y="-341.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Feedback</text>
-<text x="-276.038" y="-340.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Activity</text>
-<rect x="-231.650" y="-355.493" width="18.000" height="18.450" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-231.650" y="-355.493" width="18.000" height="18.450" fill="none" stroke="#000000" stroke-width="0.100" />
-<rect x="-221.650" y="-354.493" width="5.225" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-221.650" y="-354.493" width="5.225" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-219.038" y="-353.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Login</text>
-<text x="-219.038" y="-352.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Service</text>
-<rect x="-221.650" y="-349.493" width="5.225" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-221.650" y="-349.493" width="5.225" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-219.038" y="-348.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Checkin</text>
-<text x="-219.038" y="-347.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Service</text>
-<rect x="-221.650" y="-344.493" width="5.225" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-221.650" y="-344.493" width="5.225" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-219.038" y="-343.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Feedback</text>
-<text x="-219.038" y="-342.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Service</text>
-<rect x="-279.429" y="-355.443" width="6.700" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-279.429" y="-355.443" width="6.700" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.079" y="-354.298"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Login</text>
-<text x="-276.079" y="-353.498"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-ContentFragment</text>
-<rect x="-279.450" y="-337.493" width="6.700" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-279.450" y="-337.493" width="6.700" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.100" y="-336.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Feedback</text>
-<text x="-276.100" y="-335.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-ContentFragment</text>
-<rect x="-296.650" y="-344.493" width="6.283" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-296.650" y="-344.493" width="6.283" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-293.509" y="-343.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Application</text>
-<text x="-293.509" y="-342.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-ContentProvider</text>
-<path stroke="none" fill="#FFFFFF" stroke-width="0.100" d="M -295.421,-337.243 C -294.654,-337.918 -294.271,-338.143 -293.504,-338.143 C -292.738,-338.143 -292.355,-337.918 -291.588,-337.243 L -291.588,-333.643 C -292.355,-332.968 -292.738,-332.743 -293.504,-332.743 C -294.271,-332.743 -294.654,-332.968 -295.421,-333.643 L -295.421,-337.243 "/>
-<path stroke="#000000" fill="none" stroke-width="0.100"  d="M -295.421,-337.243 C -294.654,-337.918 -294.271,-338.143 -293.504,-338.143 C -292.738,-338.143 -292.355,-337.918 -291.588,-337.243 L -291.588,-333.643 C -292.355,-332.968 -292.738,-332.743 -293.504,-332.743 C -294.271,-332.743 -294.654,-332.968 -295.421,-333.643 L -295.421,-337.243 "/>
-<path stroke="#000000" fill="none" stroke-width="0.100"  d="M -295.421,-337.243 C -294.654,-336.568 -294.271,-336.343 -293.504,-336.343 C -292.738,-336.343 -292.355,-336.568 -291.588,-337.243 "/>
-<text x="-293.504" y="-335.593"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-client</text>
-<text x="-293.504" y="-334.793"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-application</text>
-<text x="-293.504" y="-333.993"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-database</text>
-<line x1="-293.508" y1="-341.307" x2="-293.505" y2="-338.630" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-293.509,-341.682 -293.258,-341.182 -293.508,-341.307 -293.758,-341.181 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-293.509,-341.682 -293.258,-341.182 -293.508,-341.307 -293.758,-341.181 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-293.505,-338.255 -293.755,-338.755 -293.505,-338.630 -293.255,-338.755 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-293.505,-338.255 -293.755,-338.755 -293.505,-338.630 -293.255,-338.755 "/>
-<rect x="-230.650" y="-350.493" width="5.225" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-230.650" y="-350.493" width="5.225" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-228.038" y="-349.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Dispatcher</text>
-<text x="-228.038" y="-348.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Servelet</text>
-<rect x="-221.650" y="-340.493" width="6.417" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-221.650" y="-340.493" width="6.417" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-218.441" y="-339.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-UserRegistration</text>
-<text x="-218.441" y="-338.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Service</text>
-<text x="-247.000" y="-370.193"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Diabetes</text>
-<text x="-247.000" y="-369.393"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Services </text>
-<rect x="-250.000" y="-351.393" width="4.180" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-250.000" y="-351.393" width="4.180" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-247.910" y="-349.848"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-register</text>
-<rect x="-250.000" y="-347.393" width="4.180" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-250.000" y="-347.393" width="4.180" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-247.910" y="-345.848"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-feedback</text>
-<rect x="-250.000" y="-343.393" width="4.180" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-250.000" y="-343.393" width="4.180" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-247.910" y="-341.848"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-checkin</text>
-<line x1="-276.038" y1="-357.793" x2="-276.058" y2="-355.979" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-276.062,-355.604 -276.307,-356.107 -276.058,-355.979 -275.807,-356.102 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-276.062,-355.604 -276.307,-356.107 -276.058,-355.979 -275.807,-356.102 "/>
-<rect x="-278.650" y="-351.343" width="5.225" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-278.650" y="-351.343" width="5.225" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.038" y="-350.198"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Registration</text>
-<text x="-276.038" y="-349.398"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Activity</text>
-<rect x="-279.500" y="-346.893" width="6.700" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-279.500" y="-346.893" width="6.700" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.150" y="-345.748"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Registration</text>
-<text x="-276.150" y="-344.948"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-ContentFragment</text>
-<line x1="-276.038" y1="-348.643" x2="-276.082" y2="-347.429" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-276.095,-347.055 -276.327,-347.563 -276.082,-347.429 -275.827,-347.545 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-276.095,-347.055 -276.327,-347.563 -276.082,-347.429 -275.827,-347.545 "/>
-<rect x="-293.650" y="-387.493" width="7.067" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-293.650" y="-387.493" width="7.067" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-290.116" y="-386.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-CheckinReminder</text>
-<text x="-290.116" y="-385.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Notification</text>
-<line x1="-276.038" y1="-339.793" x2="-276.087" y2="-337.980" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-276.097,-337.605 -276.333,-338.112 -276.087,-337.980 -275.833,-338.098 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-276.097,-337.605 -276.333,-338.112 -276.087,-337.980 -275.833,-338.098 "/>
-<rect x="-278.650" y="-332.493" width="5.225" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-278.650" y="-332.493" width="5.225" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.038" y="-331.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Feedback</text>
-<text x="-276.038" y="-330.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Activity</text>
-<rect x="-279.400" y="-327.493" width="6.700" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-279.400" y="-327.493" width="6.700" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.050" y="-326.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Feedback</text>
-<text x="-276.050" y="-325.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-ContentFragment</text>
-<line x1="-276.038" y1="-329.793" x2="-276.047" y2="-327.980" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-276.049,-327.605 -276.297,-328.107 -276.047,-327.980 -275.797,-328.104 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-276.049,-327.605 -276.297,-328.107 -276.047,-327.980 -275.797,-328.104 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-289.881,-343.818 -284.898,-343.818 -284.898,-354.093 -279.916,-354.093 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-290.256,-343.818 -289.756,-344.068 -289.881,-343.818 -289.756,-343.568 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-290.256,-343.818 -289.756,-344.068 -289.881,-343.818 -289.756,-343.568 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-279.541,-354.093 -280.041,-353.843 -279.916,-354.093 -280.041,-354.343 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-279.541,-354.093 -280.041,-353.843 -279.916,-354.093 -280.041,-354.343 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-289.881,-343.143 -283.650,-343.143 -283.650,-345.543 -279.987,-345.543 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-290.256,-343.143 -289.756,-343.393 -289.881,-343.143 -289.756,-342.893 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-290.256,-343.143 -289.756,-343.393 -289.881,-343.143 -289.756,-342.893 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-279.612,-345.543 -280.112,-345.293 -279.987,-345.543 -280.112,-345.793 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-279.612,-345.543 -280.112,-345.293 -279.987,-345.543 -280.112,-345.793 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-289.881,-342.468 -284.909,-342.468 -284.909,-336.818 -279.937,-336.818 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-290.256,-342.468 -289.756,-342.718 -289.881,-342.468 -289.756,-342.218 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-290.256,-342.468 -289.756,-342.718 -289.881,-342.468 -289.756,-342.218 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-279.562,-336.818 -280.062,-336.568 -279.937,-336.818 -280.062,-337.068 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-279.562,-336.818 -280.062,-336.568 -279.937,-336.818 -280.062,-337.068 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-289.881,-342.468 -286.650,-342.468 -286.650,-326.143 -279.887,-326.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-290.256,-342.468 -289.756,-342.718 -289.881,-342.468 -289.756,-342.218 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-290.256,-342.468 -289.756,-342.718 -289.881,-342.468 -289.756,-342.218 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-279.512,-326.143 -280.012,-325.893 -279.887,-326.143 -280.012,-326.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-279.512,-326.143 -280.012,-325.893 -279.887,-326.143 -280.012,-326.393 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-245.333,-354.043 -238.235,-354.043 -238.235,-349.143 -231.137,-349.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-245.708,-354.043 -245.208,-354.293 -245.333,-354.043 -245.208,-353.793 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-245.708,-354.043 -245.208,-354.293 -245.333,-354.043 -245.208,-353.793 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-230.762,-349.143 -231.262,-348.893 -231.137,-349.143 -231.262,-349.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-230.762,-349.143 -231.262,-348.893 -231.137,-349.143 -231.262,-349.393 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-245.333,-350.043 -238.235,-350.043 -238.235,-349.143 -231.137,-349.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-245.708,-350.043 -245.208,-350.293 -245.333,-350.043 -245.208,-349.793 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-245.708,-350.043 -245.208,-350.293 -245.333,-350.043 -245.208,-349.793 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-230.762,-349.143 -231.262,-348.893 -231.137,-349.143 -231.262,-349.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-230.762,-349.143 -231.262,-348.893 -231.137,-349.143 -231.262,-349.393 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-245.333,-346.043 -238.235,-346.043 -238.235,-349.143 -231.137,-349.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-245.708,-346.043 -245.208,-346.293 -245.333,-346.043 -245.208,-345.793 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-245.708,-346.043 -245.208,-346.293 -245.333,-346.043 -245.208,-345.793 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-230.762,-349.143 -231.262,-348.893 -231.137,-349.143 -231.262,-349.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-230.762,-349.143 -231.262,-348.893 -231.137,-349.143 -231.262,-349.393 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-230.650,-349.143 -238.235,-349.143 -238.235,-342.043 -245.333,-342.043 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-245.708,-342.043 -245.208,-342.293 -245.333,-342.043 -245.208,-341.793 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-245.708,-342.043 -245.208,-342.293 -245.333,-342.043 -245.208,-341.793 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-225.425,-349.143 -223.538,-349.143 -223.538,-353.143 -222.137,-353.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-221.762,-353.143 -222.262,-352.893 -222.137,-353.143 -222.262,-353.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-221.762,-353.143 -222.262,-352.893 -222.137,-353.143 -222.262,-353.393 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-225.425,-349.143 -223.538,-349.143 -223.538,-348.143 -222.137,-348.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-221.762,-348.143 -222.262,-347.893 -222.137,-348.143 -222.262,-348.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-221.762,-348.143 -222.262,-347.893 -222.137,-348.143 -222.262,-348.393 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-225.425,-349.143 -223.538,-349.143 -223.538,-343.143 -222.137,-343.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-221.762,-343.143 -222.262,-342.893 -222.137,-343.143 -222.262,-343.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-221.762,-343.143 -222.262,-342.893 -222.137,-343.143 -222.262,-343.393 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-224.938,-349.143 -223.538,-349.143 -223.538,-339.143 -222.137,-339.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-225.313,-349.143 -224.813,-349.393 -224.938,-349.143 -224.813,-348.893 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-225.313,-349.143 -224.813,-349.393 -224.938,-349.143 -224.813,-348.893 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-221.762,-339.143 -222.262,-338.893 -222.137,-339.143 -222.262,-339.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-221.762,-339.143 -222.262,-338.893 -222.137,-339.143 -222.262,-339.393 "/>
-<rect x="-269.450" y="-355.393" width="5.800" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-269.450" y="-355.393" width="5.800" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-266.550" y="-354.248"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Login</text>
-<text x="-266.550" y="-353.448"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-IntentService</text>
-<rect x="-269.650" y="-346.893" width="6.000" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-269.650" y="-346.893" width="6.000" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-266.650" y="-345.748"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Login</text>
-<text x="-266.650" y="-344.948"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-IntentService</text>
-<line x1="-272.729" y1="-354.093" x2="-269.937" y2="-354.051" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-269.562,-354.045 -270.066,-353.803 -269.937,-354.051 -270.058,-354.303 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-269.562,-354.045 -270.066,-353.803 -269.937,-354.051 -270.058,-354.303 "/>
-<line x1="-272.800" y1="-345.543" x2="-270.137" y2="-345.543" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-269.762,-345.543 -270.262,-345.293 -270.137,-345.543 -270.262,-345.793 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-269.762,-345.543 -270.262,-345.293 -270.137,-345.543 -270.262,-345.793 "/>
-<rect x="-268.650" y="-337.493" width="5.800" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-268.650" y="-337.493" width="5.800" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-265.750" y="-336.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Login</text>
-<text x="-265.750" y="-335.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-IntentService</text>
-<rect x="-268.650" y="-327.493" width="5.800" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-268.650" y="-327.493" width="5.800" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-265.750" y="-326.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Login</text>
-<text x="-265.750" y="-325.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-IntentService</text>
-<line x1="-272.750" y1="-336.143" x2="-269.137" y2="-336.143" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-268.762,-336.143 -269.262,-335.893 -269.137,-336.143 -269.262,-336.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-268.762,-336.143 -269.262,-335.893 -269.137,-336.143 -269.262,-336.393 "/>
-<line x1="-272.700" y1="-326.143" x2="-269.137" y2="-326.143" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-268.762,-326.143 -269.262,-325.893 -269.137,-326.143 -269.262,-326.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-268.762,-326.143 -269.262,-325.893 -269.137,-326.143 -269.262,-326.393 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-263.650,-345.543 -256.825,-345.543 -256.825,-350.043 -250.487,-350.043 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-250.112,-350.043 -250.612,-349.793 -250.487,-350.043 -250.612,-350.293 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-250.112,-350.043 -250.612,-349.793 -250.487,-350.043 -250.612,-350.293 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-262.850,-336.143 -256.425,-336.143 -256.425,-346.043 -250.487,-346.043 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-250.112,-346.043 -250.612,-345.793 -250.487,-346.043 -250.612,-346.293 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-250.112,-346.043 -250.612,-345.793 -250.487,-346.043 -250.612,-346.293 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-262.850,-326.143 -253.650,-326.143 -253.650,-342.043 -250.487,-342.043 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-250.112,-342.043 -250.612,-341.793 -250.487,-342.043 -250.612,-342.293 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-250.112,-342.043 -250.612,-341.793 -250.487,-342.043 -250.612,-342.293 "/>
-<rect x="-250.000" y="-338.493" width="4.180" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-250.000" y="-338.493" width="4.180" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-247.910" y="-336.948"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-data</text>
-<rect x="-278.850" y="-373.493" width="5.225" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-278.850" y="-373.493" width="5.225" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.238" y="-372.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Followers</text>
-<text x="-276.238" y="-371.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Preference</text>
-<text x="-276.238" y="-370.748"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Activity</text>
-<rect x="-279.650" y="-366.493" width="6.700" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-279.650" y="-366.493" width="6.700" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.300" y="-365.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Followers</text>
-<text x="-276.300" y="-364.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Preference</text>
-<text x="-276.300" y="-363.748"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-ContentFragment</text>
-<line x1="-276.238" y1="-369.993" x2="-276.273" y2="-367.030" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-276.277,-366.655 -276.521,-367.158 -276.273,-367.030 -276.021,-367.152 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-276.277,-366.655 -276.521,-367.158 -276.273,-367.030 -276.021,-367.152 "/>
-<rect x="-270.450" y="-366.493" width="7.530" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-270.450" y="-366.493" width="7.530" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-266.685" y="-365.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Followers</text>
-<text x="-266.685" y="-364.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Preference</text>
-<text x="-266.685" y="-363.748"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-IntentService</text>
-<rect x="-250.102" y="-361.493" width="4.785" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-250.102" y="-361.493" width="4.785" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-247.710" y="-360.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-followers</text>
-<text x="-247.710" y="-359.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Preference</text>
-<line x1="-272.950" y1="-364.743" x2="-270.937" y2="-364.743" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-270.562,-364.743 -271.062,-364.493 -270.937,-364.743 -271.062,-364.993 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-270.562,-364.743 -271.062,-364.493 -270.937,-364.743 -271.062,-364.993 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-262.920,-364.743 -256.511,-364.743 -256.511,-360.143 -250.589,-360.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-250.214,-360.143 -250.714,-359.893 -250.589,-360.143 -250.714,-360.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-250.214,-360.143 -250.714,-359.893 -250.589,-360.143 -250.714,-360.393 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-245.317,-360.143 -237.650,-360.143 -237.650,-349.143 -231.137,-349.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-230.762,-349.143 -231.262,-348.893 -231.137,-349.143 -231.262,-349.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-230.762,-349.143 -231.262,-348.893 -231.137,-349.143 -231.262,-349.393 "/>
-<rect x="-292.721" y="-379.493" width="5.225" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-292.721" y="-379.493" width="5.225" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-290.108" y="-378.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Repeating</text>
-<text x="-290.108" y="-377.548"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Alarm</text>
-<text x="-290.108" y="-376.748"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Service</text>
-<rect x="-278.821" y="-387.493" width="5.225" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-278.821" y="-387.493" width="5.225" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.208" y="-385.948"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Checkin</text>
-<text x="-276.208" y="-385.148"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Activity</text>
-<rect x="-279.550" y="-380.493" width="6.700" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-279.550" y="-380.493" width="6.700" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-276.200" y="-378.948"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Checkin</text>
-<text x="-276.200" y="-378.148"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-ContentFragment</text>
-<line x1="-276.208" y1="-383.993" x2="-276.204" y2="-381.030" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-276.203,-380.655 -276.454,-381.155 -276.204,-381.030 -275.954,-381.156 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-276.203,-380.655 -276.454,-381.155 -276.204,-381.030 -275.954,-381.156 "/>
-<rect x="-270.350" y="-380.493" width="7.530" height="3.500" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-270.350" y="-380.493" width="7.530" height="3.500" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-266.585" y="-378.948"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-Checkin</text>
-<text x="-266.585" y="-378.148"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-IntentService</text>
-<line x1="-272.850" y1="-378.743" x2="-270.837" y2="-378.743" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-270.462,-378.743 -270.962,-378.493 -270.837,-378.743 -270.962,-378.993 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-270.462,-378.743 -270.962,-378.493 -270.837,-378.743 -270.962,-378.993 "/>
-<polyline fill="none" stroke="#000000" stroke-width="0.100"  points="-262.820,-378.743 -256.335,-378.743 -256.335,-366.143 -250.337,-366.143 "/>
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-249.962,-366.143 -250.462,-365.893 -250.337,-366.143 -250.462,-366.393 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-249.962,-366.143 -250.462,-365.893 -250.337,-366.143 -250.462,-366.393 "/>
-<rect x="-249.850" y="-367.493" width="4.785" height="2.700" fill="#FFFFFF" stroke="none" stroke-width="0"/>
-<rect x="-249.850" y="-367.493" width="4.785" height="2.700" fill="none" stroke="#000000" stroke-width="0.100" />
-<text x="-247.457" y="-366.348"  fill="#000000" text-anchor="middle" font-size="0.80" font-family="sans" font-style="normal" font-weight="400">
-checkin</text>
-<line x1="-290.108" y1="-379.493" x2="-290.115" y2="-383.507" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-290.116,-383.882 -289.865,-383.382 -290.115,-383.507 -290.365,-383.381 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-290.116,-383.882 -289.865,-383.382 -290.115,-383.507 -290.365,-383.381 "/>
-<line x1="-286.583" y1="-385.743" x2="-279.308" y2="-385.743" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-278.933,-385.743 -279.433,-385.493 -279.308,-385.743 -279.433,-385.993 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-278.933,-385.743 -279.433,-385.493 -279.308,-385.743 -279.433,-385.993 "/>
-<line x1="-263.650" y1="-354.043" x2="-250.487" y2="-354.043" stroke="#000000" stroke-width="0.100" />
-<polygon fill="#000000" stroke="none" stroke-width="0.100" points="-250.112,-354.043 -250.612,-353.793 -250.487,-354.043 -250.612,-354.293 "/>
-<polygon fill="none" stroke="#000000" stroke-width="0.100"  points="-250.112,-354.043 -250.612,-353.793 -250.487,-354.043 -250.612,-354.293 "/>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="89cm" height="73cm" viewBox="-5961 -7850 1763 1452" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="-5960" y="-7849" width="1760" height="1449"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5960" y="-7849" width="1760" height="1449"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5080" y="-7120.6">
+      <tspan x="-5080" y="-7120.6"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5040" y="-7429.87" width="200" height="740"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5040" y="-7429.87" width="200" height="740"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4940" y="-7055.97">
+      <tspan x="-4940" y="-7055.97"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5000" y="-7107.87" width="83.6" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5000" y="-7107.87" width="83.6" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4958.2" y="-7076.97">
+      <tspan x="-4958.2" y="-7076.97">login</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5573" y="-7209.87" width="104.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5573" y="-7209.87" width="104.5" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5520.75" y="-7186.97">
+      <tspan x="-5520.75" y="-7186.97">Login</tspan>
+      <tspan x="-5520.75" y="-7170.97">Activity</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5573" y="-6849.87" width="104.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5573" y="-6849.87" width="104.5" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5520.75" y="-6826.97">
+      <tspan x="-5520.75" y="-6826.97">Feedback</tspan>
+      <tspan x="-5520.75" y="-6810.97">Activity</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-4633" y="-7109.87" width="360" height="369"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-4633" y="-7109.87" width="360" height="369"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4453" y="-6921.47">
+      <tspan x="-4453" y="-6921.47"></tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-4433" y="-7089.87" width="104.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-4433" y="-7089.87" width="104.5" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4380.75" y="-7066.97">
+      <tspan x="-4380.75" y="-7066.97">Login</tspan>
+      <tspan x="-4380.75" y="-7050.97">Service</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-4433" y="-6989.87" width="104.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-4433" y="-6989.87" width="104.5" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4380.75" y="-6966.97">
+      <tspan x="-4380.75" y="-6966.97">Checkin</tspan>
+      <tspan x="-4380.75" y="-6950.97">Service</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-4433" y="-6889.87" width="104.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-4433" y="-6889.87" width="104.5" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4380.75" y="-6866.97">
+      <tspan x="-4380.75" y="-6866.97">Feedback</tspan>
+      <tspan x="-4380.75" y="-6850.97">Service</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5588.59" y="-7108.87" width="134" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5588.59" y="-7108.87" width="134" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5521.59" y="-7085.97">
+      <tspan x="-5521.59" y="-7085.97">Login</tspan>
+      <tspan x="-5521.59" y="-7069.97">ContentFragment</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5589" y="-6749.87" width="134" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5589" y="-6749.87" width="134" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5522" y="-6726.97">
+      <tspan x="-5522" y="-6726.97">Feedback</tspan>
+      <tspan x="-5522" y="-6710.97">ContentFragment</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5933" y="-6889.87" width="125.65" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5933" y="-6889.87" width="125.65" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5870.18" y="-6866.97">
+      <tspan x="-5870.18" y="-6866.97">Application</tspan>
+      <tspan x="-5870.18" y="-6850.97">ContentProvider</tspan>
+    </text>
+  </g>
+  <g>
+    <path style="fill: #ffffff" d="M -5908.41 -6744.87 C -5893.08,-6758.37 -5885.42,-6762.87 -5870.09,-6762.87 C -5854.76,-6762.87 -5847.09,-6758.37 -5831.76,-6744.87 L -5831.76,-6672.87 C -5847.09,-6659.37 -5854.76,-6654.87 -5870.09,-6654.87 C -5885.42,-6654.87 -5893.08,-6659.37 -5908.41,-6672.87 L -5908.41,-6744.87z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -5908.41 -6744.87 C -5893.08,-6758.37 -5885.42,-6762.87 -5870.09,-6762.87 C -5854.76,-6762.87 -5847.09,-6758.37 -5831.76,-6744.87 L -5831.76,-6672.87 C -5847.09,-6659.37 -5854.76,-6654.87 -5870.09,-6654.87 C -5885.42,-6654.87 -5893.08,-6659.37 -5908.41,-6672.87 L -5908.41,-6744.87"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" d="M -5908.41 -6744.87 C -5893.08,-6731.37 -5885.42,-6726.87 -5870.09,-6726.87 C -5854.76,-6726.87 -5847.09,-6731.37 -5831.76,-6744.87"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5870.09" y="-6711.87">
+      <tspan x="-5870.09" y="-6711.87">client</tspan>
+      <tspan x="-5870.09" y="-6695.87">application</tspan>
+      <tspan x="-5870.09" y="-6679.87">database</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5870.16" y1="-6826.13" x2="-5870.1" y2="-6772.6"/>
+    <polygon style="fill: #000000" points="-5870.17,-6833.63 -5865.16,-6823.64 -5870.16,-6826.13 -5875.16,-6823.63 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5870.17,-6833.63 -5865.16,-6823.64 -5870.16,-6826.13 -5875.16,-6823.63 "/>
+    <polygon style="fill: #000000" points="-5870.09,-6765.1 -5875.1,-6775.1 -5870.1,-6772.6 -5865.1,-6775.11 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5870.09,-6765.1 -5875.1,-6775.1 -5870.1,-6772.6 -5865.1,-6775.11 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-4613" y="-7009.87" width="104.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-4613" y="-7009.87" width="104.5" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4560.75" y="-6986.97">
+      <tspan x="-4560.75" y="-6986.97">Dispatcher</tspan>
+      <tspan x="-4560.75" y="-6970.97">Servelet</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-4433" y="-6809.87" width="128.35" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-4433" y="-6809.87" width="128.35" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4368.83" y="-6786.97">
+      <tspan x="-4368.83" y="-6786.97">UserRegistration</tspan>
+      <tspan x="-4368.83" y="-6770.97">Service</tspan>
+    </text>
+  </g>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4940" y="-7059.87">
+    <tspan x="-4940" y="-7059.87"></tspan>
+  </text>
+  <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4940" y="-7403.87">
+    <tspan x="-4940" y="-7403.87">Diabetes</tspan>
+    <tspan x="-4940" y="-7387.87">Services </tspan>
+    <tspan x="-4940" y="-7371.87"></tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffffff" x="-5000" y="-7027.87" width="83.6" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5000" y="-7027.87" width="83.6" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4958.2" y="-6996.97">
+      <tspan x="-4958.2" y="-6996.97">register</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5000" y="-6947.87" width="83.6" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5000" y="-6947.87" width="83.6" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4958.2" y="-6916.97">
+      <tspan x="-4958.2" y="-6916.97">feedback</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5000" y="-6867.87" width="83.6" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5000" y="-6867.87" width="83.6" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4958.2" y="-6836.97">
+      <tspan x="-4958.2" y="-6836.97">checkin</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5520.75" y1="-7155.87" x2="-5521.16" y2="-7119.59"/>
+    <polygon style="fill: #000000" points="-5521.24,-7112.09 -5526.13,-7122.14 -5521.16,-7119.59 -5516.13,-7122.03 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5521.24,-7112.09 -5526.13,-7122.14 -5521.16,-7119.59 -5516.13,-7122.03 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5573" y="-7026.87" width="104.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5573" y="-7026.87" width="104.5" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5520.75" y="-7003.97">
+      <tspan x="-5520.75" y="-7003.97">Registration</tspan>
+      <tspan x="-5520.75" y="-6987.97">Activity</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5590" y="-6937.87" width="134" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5590" y="-6937.87" width="134" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5523" y="-6914.97">
+      <tspan x="-5523" y="-6914.97">Registration</tspan>
+      <tspan x="-5523" y="-6898.97">ContentFragment</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5520.75" y1="-6972.87" x2="-5521.63" y2="-6948.59"/>
+    <polygon style="fill: #000000" points="-5521.9,-6941.09 -5526.54,-6951.27 -5521.63,-6948.59 -5516.54,-6950.9 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5521.9,-6941.09 -5526.54,-6951.27 -5521.63,-6948.59 -5516.54,-6950.9 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5873" y="-7749.87" width="141.35" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5873" y="-7749.87" width="141.35" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5802.33" y="-7726.97">
+      <tspan x="-5802.33" y="-7726.97">CheckinReminder</tspan>
+      <tspan x="-5802.33" y="-7710.97">Notification</tspan>
+      <tspan x="-5802.33" y="-7694.97"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5520.75" y1="-6795.87" x2="-5521.74" y2="-6759.6"/>
+    <polygon style="fill: #000000" points="-5521.94,-6752.1 -5526.67,-6762.24 -5521.74,-6759.6 -5516.67,-6761.96 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5521.94,-6752.1 -5526.67,-6762.24 -5521.74,-6759.6 -5516.67,-6761.96 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5573" y="-6649.87" width="104.5" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5573" y="-6649.87" width="104.5" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5520.75" y="-6626.97">
+      <tspan x="-5520.75" y="-6626.97">Feedback</tspan>
+      <tspan x="-5520.75" y="-6610.97">Activity</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5588" y="-6549.87" width="134" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5588" y="-6549.87" width="134" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5521" y="-6526.97">
+      <tspan x="-5521" y="-6526.97">Feedback</tspan>
+      <tspan x="-5521" y="-6510.97">ContentFragment</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5520.75" y1="-6595.87" x2="-5520.95" y2="-6559.6"/>
+    <polygon style="fill: #000000" points="-5520.99,-6552.1 -5525.93,-6562.13 -5520.95,-6559.6 -5515.93,-6562.08 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5520.99,-6552.1 -5525.93,-6562.13 -5520.95,-6559.6 -5515.93,-6562.08 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5797.61,-6876.37 -5697.97,-6876.37 -5697.97,-7081.87 -5598.32,-7081.87 "/>
+    <polygon style="fill: #000000" points="-5805.11,-6876.37 -5795.11,-6881.37 -5797.61,-6876.37 -5795.11,-6871.37 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5805.11,-6876.37 -5795.11,-6881.37 -5797.61,-6876.37 -5795.11,-6871.37 "/>
+    <polygon style="fill: #000000" points="-5590.82,-7081.87 -5600.82,-7076.87 -5598.32,-7081.87 -5600.82,-7086.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5590.82,-7081.87 -5600.82,-7076.87 -5598.32,-7081.87 -5600.82,-7086.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5797.61,-6862.87 -5673,-6862.87 -5673,-6910.87 -5599.74,-6910.87 "/>
+    <polygon style="fill: #000000" points="-5805.11,-6862.87 -5795.11,-6867.87 -5797.61,-6862.87 -5795.11,-6857.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5805.11,-6862.87 -5795.11,-6867.87 -5797.61,-6862.87 -5795.11,-6857.87 "/>
+    <polygon style="fill: #000000" points="-5592.24,-6910.87 -5602.24,-6905.87 -5599.74,-6910.87 -5602.24,-6915.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5592.24,-6910.87 -5602.24,-6905.87 -5599.74,-6910.87 -5602.24,-6915.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5797.61,-6849.37 -5698.18,-6849.37 -5698.18,-6736.37 -5598.74,-6736.37 "/>
+    <polygon style="fill: #000000" points="-5805.11,-6849.37 -5795.11,-6854.37 -5797.61,-6849.37 -5795.11,-6844.37 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5805.11,-6849.37 -5795.11,-6854.37 -5797.61,-6849.37 -5795.11,-6844.37 "/>
+    <polygon style="fill: #000000" points="-5591.24,-6736.37 -5601.24,-6731.37 -5598.74,-6736.37 -5601.24,-6741.37 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5591.24,-6736.37 -5601.24,-6731.37 -5598.74,-6736.37 -5601.24,-6741.37 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5797.61,-6849.37 -5733,-6849.37 -5733,-6522.87 -5597.74,-6522.87 "/>
+    <polygon style="fill: #000000" points="-5805.11,-6849.37 -5795.11,-6854.37 -5797.61,-6849.37 -5795.11,-6844.37 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5805.11,-6849.37 -5795.11,-6854.37 -5797.61,-6849.37 -5795.11,-6844.37 "/>
+    <polygon style="fill: #000000" points="-5590.24,-6522.87 -5600.24,-6517.87 -5597.74,-6522.87 -5600.24,-6527.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5590.24,-6522.87 -5600.24,-6517.87 -5597.74,-6522.87 -5600.24,-6527.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4906.66,-7080.87 -4764.7,-7080.87 -4764.7,-6982.87 -4622.74,-6982.87 "/>
+    <polygon style="fill: #000000" points="-4914.16,-7080.87 -4904.16,-7085.87 -4906.66,-7080.87 -4904.16,-7075.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4914.16,-7080.87 -4904.16,-7085.87 -4906.66,-7080.87 -4904.16,-7075.87 "/>
+    <polygon style="fill: #000000" points="-4615.24,-6982.87 -4625.24,-6977.87 -4622.74,-6982.87 -4625.24,-6987.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4615.24,-6982.87 -4625.24,-6977.87 -4622.74,-6982.87 -4625.24,-6987.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4906.66,-7000.87 -4764.7,-7000.87 -4764.7,-6982.87 -4622.74,-6982.87 "/>
+    <polygon style="fill: #000000" points="-4914.16,-7000.87 -4904.16,-7005.87 -4906.66,-7000.87 -4904.16,-6995.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4914.16,-7000.87 -4904.16,-7005.87 -4906.66,-7000.87 -4904.16,-6995.87 "/>
+    <polygon style="fill: #000000" points="-4615.24,-6982.87 -4625.24,-6977.87 -4622.74,-6982.87 -4625.24,-6987.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4615.24,-6982.87 -4625.24,-6977.87 -4622.74,-6982.87 -4625.24,-6987.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4906.66,-6920.87 -4764.7,-6920.87 -4764.7,-6982.87 -4622.74,-6982.87 "/>
+    <polygon style="fill: #000000" points="-4914.16,-6920.87 -4904.16,-6925.87 -4906.66,-6920.87 -4904.16,-6915.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4914.16,-6920.87 -4904.16,-6925.87 -4906.66,-6920.87 -4904.16,-6915.87 "/>
+    <polygon style="fill: #000000" points="-4615.24,-6982.87 -4625.24,-6977.87 -4622.74,-6982.87 -4625.24,-6987.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4615.24,-6982.87 -4625.24,-6977.87 -4622.74,-6982.87 -4625.24,-6987.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4613,-6982.87 -4764.7,-6982.87 -4764.7,-6840.87 -4906.66,-6840.87 "/>
+    <polygon style="fill: #000000" points="-4914.16,-6840.87 -4904.16,-6845.87 -4906.66,-6840.87 -4904.16,-6835.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4914.16,-6840.87 -4904.16,-6845.87 -4906.66,-6840.87 -4904.16,-6835.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4508.5,-6982.87 -4470.75,-6982.87 -4470.75,-7062.87 -4442.74,-7062.87 "/>
+    <polygon style="fill: #000000" points="-4435.24,-7062.87 -4445.24,-7057.87 -4442.74,-7062.87 -4445.24,-7067.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4435.24,-7062.87 -4445.24,-7057.87 -4442.74,-7062.87 -4445.24,-7067.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4508.5,-6982.87 -4470.75,-6982.87 -4470.75,-6962.87 -4442.74,-6962.87 "/>
+    <polygon style="fill: #000000" points="-4435.24,-6962.87 -4445.24,-6957.87 -4442.74,-6962.87 -4445.24,-6967.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4435.24,-6962.87 -4445.24,-6957.87 -4442.74,-6962.87 -4445.24,-6967.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4508.5,-6982.87 -4470.75,-6982.87 -4470.75,-6862.87 -4442.74,-6862.87 "/>
+    <polygon style="fill: #000000" points="-4435.24,-6862.87 -4445.24,-6857.87 -4442.74,-6862.87 -4445.24,-6867.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4435.24,-6862.87 -4445.24,-6857.87 -4442.74,-6862.87 -4445.24,-6867.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4498.76,-6982.87 -4470.75,-6982.87 -4470.75,-6782.87 -4442.74,-6782.87 "/>
+    <polygon style="fill: #000000" points="-4506.26,-6982.87 -4496.26,-6987.87 -4498.76,-6982.87 -4496.26,-6977.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4506.26,-6982.87 -4496.26,-6987.87 -4498.76,-6982.87 -4496.26,-6977.87 "/>
+    <polygon style="fill: #000000" points="-4435.24,-6782.87 -4445.24,-6777.87 -4442.74,-6782.87 -4445.24,-6787.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4435.24,-6782.87 -4445.24,-6777.87 -4442.74,-6782.87 -4445.24,-6787.87 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5389" y="-7107.87" width="116" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5389" y="-7107.87" width="116" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5331" y="-7084.97">
+      <tspan x="-5331" y="-7084.97">Login</tspan>
+      <tspan x="-5331" y="-7068.97">IntentService</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5393" y="-6937.87" width="120" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5393" y="-6937.87" width="120" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5333" y="-6914.97">
+      <tspan x="-5333" y="-6914.97">Login</tspan>
+      <tspan x="-5333" y="-6898.97">IntentService</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5454.59" y1="-7081.87" x2="-5398.73" y2="-7081.02"/>
+    <polygon style="fill: #000000" points="-5391.24,-7080.9 -5401.31,-7076.06 -5398.73,-7081.02 -5401.16,-7086.05 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5391.24,-7080.9 -5401.31,-7076.06 -5398.73,-7081.02 -5401.16,-7086.05 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5456" y1="-6910.87" x2="-5402.74" y2="-6910.87"/>
+    <polygon style="fill: #000000" points="-5395.24,-6910.87 -5405.24,-6905.87 -5402.74,-6910.87 -5405.24,-6915.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5395.24,-6910.87 -5405.24,-6905.87 -5402.74,-6910.87 -5405.24,-6915.87 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5373" y="-6749.87" width="116" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5373" y="-6749.87" width="116" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5315" y="-6726.97">
+      <tspan x="-5315" y="-6726.97">Login</tspan>
+      <tspan x="-5315" y="-6710.97">IntentService</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5373" y="-6549.87" width="116" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5373" y="-6549.87" width="116" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5315" y="-6526.97">
+      <tspan x="-5315" y="-6526.97">Login</tspan>
+      <tspan x="-5315" y="-6510.97">IntentService</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5455" y1="-6722.87" x2="-5382.74" y2="-6722.87"/>
+    <polygon style="fill: #000000" points="-5375.24,-6722.87 -5385.24,-6717.87 -5382.74,-6722.87 -5385.24,-6727.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5375.24,-6722.87 -5385.24,-6717.87 -5382.74,-6722.87 -5385.24,-6727.87 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5454" y1="-6522.87" x2="-5382.74" y2="-6522.87"/>
+    <polygon style="fill: #000000" points="-5375.24,-6522.87 -5385.24,-6517.87 -5382.74,-6522.87 -5385.24,-6527.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5375.24,-6522.87 -5385.24,-6517.87 -5382.74,-6522.87 -5385.24,-6527.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5273,-6910.87 -5136.5,-6910.87 -5136.5,-7000.87 -5009.74,-7000.87 "/>
+    <polygon style="fill: #000000" points="-5002.24,-7000.87 -5012.24,-6995.87 -5009.74,-7000.87 -5012.24,-7005.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5002.24,-7000.87 -5012.24,-6995.87 -5009.74,-7000.87 -5012.24,-7005.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5257,-6722.87 -5128.5,-6722.87 -5128.5,-6920.87 -5009.74,-6920.87 "/>
+    <polygon style="fill: #000000" points="-5002.24,-6920.87 -5012.24,-6915.87 -5009.74,-6920.87 -5012.24,-6925.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5002.24,-6920.87 -5012.24,-6915.87 -5009.74,-6920.87 -5012.24,-6925.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5257,-6522.87 -5073,-6522.87 -5073,-6840.87 -5009.74,-6840.87 "/>
+    <polygon style="fill: #000000" points="-5002.24,-6840.87 -5012.24,-6835.87 -5009.74,-6840.87 -5012.24,-6845.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5002.24,-6840.87 -5012.24,-6835.87 -5009.74,-6840.87 -5012.24,-6845.87 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5000" y="-6769.87" width="83.6" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5000" y="-6769.87" width="83.6" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4958.2" y="-6738.97">
+      <tspan x="-4958.2" y="-6738.97">data</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5577" y="-7469.87" width="104.5" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5577" y="-7469.87" width="104.5" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5524.75" y="-7446.97">
+      <tspan x="-5524.75" y="-7446.97">Followers</tspan>
+      <tspan x="-5524.75" y="-7430.97">Preference</tspan>
+      <tspan x="-5524.75" y="-7414.97">Activity</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5593" y="-7329.87" width="134" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5593" y="-7329.87" width="134" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5526" y="-7306.97">
+      <tspan x="-5526" y="-7306.97">Followers</tspan>
+      <tspan x="-5526" y="-7290.97">Preference</tspan>
+      <tspan x="-5526" y="-7274.97">ContentFragment</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5524.75" y1="-7399.87" x2="-5525.46" y2="-7340.61"/>
+    <polygon style="fill: #000000" points="-5525.54,-7333.11 -5530.43,-7343.17 -5525.46,-7340.61 -5520.43,-7343.05 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5525.54,-7333.11 -5530.43,-7343.17 -5525.46,-7340.61 -5520.43,-7343.05 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5409" y="-7329.87" width="150.6" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5409" y="-7329.87" width="150.6" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5333.7" y="-7306.97">
+      <tspan x="-5333.7" y="-7306.97">Followers</tspan>
+      <tspan x="-5333.7" y="-7290.97">Preference</tspan>
+      <tspan x="-5333.7" y="-7274.97">IntentService</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5002.05" y="-7229.87" width="95.7" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5002.05" y="-7229.87" width="95.7" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4954.2" y="-7206.97">
+      <tspan x="-4954.2" y="-7206.97">followers</tspan>
+      <tspan x="-4954.2" y="-7190.97">Preference</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5459" y1="-7294.87" x2="-5418.74" y2="-7294.87"/>
+    <polygon style="fill: #000000" points="-5411.24,-7294.87 -5421.24,-7289.87 -5418.74,-7294.87 -5421.24,-7299.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5411.24,-7294.87 -5421.24,-7289.87 -5418.74,-7294.87 -5421.24,-7299.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5258.4,-7294.87 -5130.23,-7294.87 -5130.23,-7202.87 -5011.79,-7202.87 "/>
+    <polygon style="fill: #000000" points="-5004.29,-7202.87 -5014.29,-7197.87 -5011.79,-7202.87 -5014.29,-7207.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5004.29,-7202.87 -5014.29,-7197.87 -5011.79,-7202.87 -5014.29,-7207.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4906.35,-7202.87 -4753,-7202.87 -4753,-6982.87 -4622.74,-6982.87 "/>
+    <polygon style="fill: #000000" points="-4615.24,-6982.87 -4625.24,-6977.87 -4622.74,-6982.87 -4625.24,-6987.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4615.24,-6982.87 -4625.24,-6977.87 -4622.74,-6982.87 -4625.24,-6987.87 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5854.41" y="-7589.87" width="104.5" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5854.41" y="-7589.87" width="104.5" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5802.16" y="-7566.97">
+      <tspan x="-5802.16" y="-7566.97">Repeating</tspan>
+      <tspan x="-5802.16" y="-7550.97">Alarm</tspan>
+      <tspan x="-5802.16" y="-7534.97">Service</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5576.41" y="-7749.87" width="104.5" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5576.41" y="-7749.87" width="104.5" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5524.16" y="-7718.97">
+      <tspan x="-5524.16" y="-7718.97">Checkin</tspan>
+      <tspan x="-5524.16" y="-7702.97">Activity</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5591" y="-7609.87" width="134" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5591" y="-7609.87" width="134" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5524" y="-7578.97">
+      <tspan x="-5524" y="-7578.97">Checkin</tspan>
+      <tspan x="-5524" y="-7562.97">ContentFragment</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5524.16" y1="-7679.87" x2="-5524.07" y2="-7620.61"/>
+    <polygon style="fill: #000000" points="-5524.06,-7613.11 -5529.08,-7623.1 -5524.07,-7620.61 -5519.08,-7623.12 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5524.06,-7613.11 -5529.08,-7623.1 -5524.07,-7620.61 -5519.08,-7623.12 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5407" y="-7609.87" width="150.6" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5407" y="-7609.87" width="150.6" height="70"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5331.7" y="-7578.97">
+      <tspan x="-5331.7" y="-7578.97">Checkin</tspan>
+      <tspan x="-5331.7" y="-7562.97">IntentService</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5457" y1="-7574.87" x2="-5416.74" y2="-7574.87"/>
+    <polygon style="fill: #000000" points="-5409.24,-7574.87 -5419.24,-7569.87 -5416.74,-7574.87 -5419.24,-7579.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5409.24,-7574.87 -5419.24,-7569.87 -5416.74,-7574.87 -5419.24,-7579.87 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5256.4,-7574.87 -5126.7,-7574.87 -5126.7,-7322.87 -5006.74,-7322.87 "/>
+    <polygon style="fill: #000000" points="-4999.24,-7322.87 -5009.24,-7317.87 -5006.74,-7322.87 -5009.24,-7327.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4999.24,-7322.87 -5009.24,-7317.87 -5006.74,-7322.87 -5009.24,-7327.87 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-4997" y="-7349.87" width="95.7" height="54"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-4997" y="-7349.87" width="95.7" height="54"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-4949.15" y="-7326.97">
+      <tspan x="-4949.15" y="-7326.97">checkin</tspan>
+      <tspan x="-4949.15" y="-7310.97"></tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5802.16" y1="-7589.87" x2="-5802.31" y2="-7670.13"/>
+    <polygon style="fill: #000000" points="-5802.32,-7677.63 -5797.3,-7667.64 -5802.31,-7670.13 -5807.3,-7667.62 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5802.32,-7677.63 -5797.3,-7667.64 -5802.31,-7670.13 -5807.3,-7667.62 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5731.65" y1="-7714.87" x2="-5586.15" y2="-7714.87"/>
+    <polygon style="fill: #000000" points="-5578.65,-7714.87 -5588.65,-7709.87 -5586.15,-7714.87 -5588.65,-7719.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5578.65,-7714.87 -5588.65,-7709.87 -5586.15,-7714.87 -5588.65,-7719.87 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="-5273" y1="-7080.87" x2="-5009.74" y2="-7080.87"/>
+    <polygon style="fill: #000000" points="-5002.24,-7080.87 -5012.24,-7075.87 -5009.74,-7080.87 -5012.24,-7085.87 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5002.24,-7080.87 -5012.24,-7075.87 -5009.74,-7080.87 -5012.24,-7085.87 "/>
+  </g>
 </svg>
